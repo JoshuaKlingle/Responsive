@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+ 
+   
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Responsive Page</title>
+    <link rel= "stylesheet"href="josh.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to our site</h1>
+   </div>
+    <div class="container">
+      <div class= row>
+      <div class="col-4 col-s-12">
+          <div class="colorbox1"></div>
+          <div class="title1"></
+        <h2>Title</h2>
+        <p>Bacon ipsum dolor amet pig porchetta tongue tenderloin ham hack cupim strip steak sausage beef humbuger meatball ribeye. Landjaeger drupstick</p>
+      </div>
+    </div>
+
+      <div class="col-4 col-s-12">
+        <div class=colorbox2></div>
+        <div class="title2">
+        <h2>Title</h2>
+       <p>Bacon ipsum dolor amet pig porchetta tongue tenderloin ham hack cupim strip steak sausage beef humbuger meatball ribeye. Landjaeger drupstick</p>
+      </div>
+      
+
+      <div class="col-4 col-s-12">
+        <div class="colorbox3"></div>
+        <div class="title3">
+          <h2>Title</h2>
+          <p>Bacon ipsum dolor amet pig porchetta tongue tenderloin ham hack cupim strip steak sausage beef humbuger meatball ribeye. Landjaeger drupstick</p>
+      </div>
+    </div>
+  </div>   
+ 
+</body>
+</html>
